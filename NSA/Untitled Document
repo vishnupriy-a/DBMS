@@ -1,0 +1,6 @@
+#!/bin/bash
+a=home
+b=pwd
+echo "Home:" $a
+echo "Present:" $b
+
